@@ -1,4 +1,4 @@
 Результат:
-https://https-github-com-stanisla1991-react-counter.vercel.app/
+https://https-github-com-stanisla1991-react-modal.vercel.app/
 
 Что изучил: 1) Условный рендер 2) Как cделать анимированное модальное окно 3) Как передавать в модально окно контент (children) 4) Как передавать пропсы
